@@ -1,0 +1,12 @@
+customerID,companyName,contactName,contactTitle,address,city,region,postalCode,country,phone,fax
+ALFKI,Alfreds Futterkiste,Maria Anders,Sales Representative,Obere Str. 57,Berlin,NULL,12209,Germany,030-0074321,030-0076545
+BLAUS,Blauer See Delikatessen,Hanna Moos,Sales Representative,Forsterstr. 57,Mannheim,NULL,68306,Germany,0621-08460,0621-08924
+DRACD,Drachenblut Delikatessen,Sven Ottlieb,Order Administrator,Walserweg 21,Aachen,NULL,52066,Germany,0241-039123,0241-059428
+FRANK,Frankenversand,Peter Franken,Marketing Manager,Berliner Platz 43,München,NULL,80805,Germany,089-0877310,089-0877451
+KOENE,Königlich Essen,Philip Cramer,Sales Associate,Maubelstr. 90,Brandenburg,NULL,14776,Germany,0555-09876,NULL
+LEHMS,Lehmanns Marktstand,Renate Messner,Sales Representative,Magazinweg 7,Frankfurt a.M.,NULL,60528,Germany,069-0245984,069-0245874
+MORGK,Morgenstern Gesundkost,Alexander Feuer,Marketing Assistant,Heerstr. 22,Leipzig,NULL,04179,Germany,0342-023176,NULL
+OTTIK,Ottilies Käseladen,Henriette Pfalzheim,Owner,Mehrheimerstr. 369,Köln,NULL,50739,Germany,0221-0644327,0221-0765721
+QUICK,QUICK-Stop,Horst Kloss,Accounting Manager,Taucherstraße 10,Cunewalde,NULL,01307,Germany,0372-035188,NULL
+TOMSP,Toms Spezialitäten,Karin Josephs,Marketing Manager,Luisenstr. 48,Münster,NULL,44087,Germany,0251-031259,0251-035695
+WANDK,Die Wandernde Kuh,Rita Müller,Sales Representative,Adenauerallee 900,Stuttgart,NULL,70563,Germany,0711-020361,0711-035428

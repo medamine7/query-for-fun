@@ -1,0 +1,14 @@
+@import "./_base.scss";
+@import "./_fonts.scss";
+@import "./_animations.scss";
+
+#app {
+  width: 100%;
+  margin: 0 auto;
+  font-weight: normal;
+}
+
+.green {
+  color: var(--main-green);
+  transition: 0.4s;
+}

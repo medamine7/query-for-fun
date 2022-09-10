@@ -1,0 +1,2 @@
+employeeID,lastName,firstName,title,titleOfCourtesy,birthDate,hireDate,address,city,region,postalCode,country,homePhone,extension,notes,reportsTo
+3,Leverling,Janet,Sales Representative,Ms.,1963-08-30 00:00:00.000,1992-04-01 00:00:00.000,722 Moss Bay Blvd.,Kirkland,WA,98033,USA,(206) 555-3412,3355,Janet has a BS degree in chemistry from Boston College (1984). She has also completed a certificate program in food retailing management.  Janet was hired as a sales associate in 1991 and promoted to sales representative in February 1992.,2
